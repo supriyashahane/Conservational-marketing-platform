@@ -1,0 +1,77 @@
+<div id="login" fxLayout="column">
+      
+    <div id="login-form-wrapper" fxLayout="column" >
+
+        <div id="login-form" [@animate]="{value:'*',params:{duration:'300ms',y:'100px'}}">
+      
+<div>
+    <table class="table table-hover" id="table">
+      <tr>
+<th>Business page</th> 
+    </tr>
+    <div *ngFor="let d of demo">       
+          <tr>
+            <td>
+            <label class="container">{{this.d.name}}
+                    <input type="checkbox" (click)="select(d)">
+                    <span class="checkmark"></span>
+                  </label>
+                  </td>
+                  </tr>
+                 
+      </div>
+    </table>
+      </div>
+
+<div *ngFor="let d of data">
+    <table class="table" style="width:100%" id="table">
+        <tr>
+          <th>Business Name:</th>
+          <th>{{d.name}}</th>             
+        </tr>
+        <tr>
+          <td>Business Type:</td>
+          <td>{{d.category}}</td> 
+        </tr>
+        <tr><td>Contact Information</td></tr> 
+        <tr>
+          <td>Website:</td> 
+          <td>{{d.website}}</td> 
+        </tr>
+        <tr>
+            <td>Email:</td> 
+           <td>{{d.emails}}</td>
+         </tr> 
+        <tr>
+           <td>Location:</td> 
+          <td>{{d.location.street}}</td>
+        </tr> 
+        <tr>
+            <td>City:</td> 
+           <td>{{d.location.city}}</td>
+         </tr>
+         <tr>
+            <td>Country:</td> 
+           <td>{{d.location.country}}</td>
+         </tr>
+         <tr>
+            <td>pincode:</td> 
+           <td>{{d.location.zip}}</td>
+         </tr>       
+      </table>
+     
+</div>
+<div fxLayout="row" fxLayoutAlign="center">
+<button
+mat-raised-button
+type="button"
+id="button"
+color="accent"
+(click)="next()"
+>
+Done
+</button>
+</div>
+</div>
+</div>
+</div>

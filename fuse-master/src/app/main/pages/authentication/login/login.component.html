@@ -1,0 +1,30 @@
+<div id="login" fxLayout="column">
+
+    <div id="login-form-wrapper" fxLayout="column" fxLayoutAlign="center center">
+
+        <div id="login-form" [@animate]="{value:'*',params:{duration:'300ms',y:'100px'}}">
+
+            <div class="logo">
+                <img src="assets/images/logos/fuse.svg">
+            </div>
+
+            <div class="title">LOGIN TO YOUR ACCOUNT</div>
+
+            <form name="loginForm" [formGroup]="loginForm" novalidate>
+
+                
+                
+                <div class="fb-login-button" fxLayoutAlign="center" data-size="large" data-button-type="login_with"
+                data-auto-logout-link="false" onlogin="checkLoginState();" data-scope="public_profile" 
+                data-use-continue-as="true"></div> 
+                     
+     
+     
+            </form>
+
+            
+        </div>
+
+    </div>
+
+</div>

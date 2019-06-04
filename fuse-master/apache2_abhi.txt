@@ -1,0 +1,1000 @@
+  999  ls
+ 1000  npm start
+ 1001  less /home/supriya/.npm/_logs/2019-03-06T05_42_13_926Z-debug.log
+ 1002  sudo npm i @angular-devkit/build-angular
+ 1003  npm audit fix --f
+ 1004  npm install
+ 1005  sudo npm install
+ 1006  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1007  sudo npm audit fix --f
+ 1008  npm start
+ 1009  code .
+ 1010  ls
+ 1011  less README.md 
+ 1012  sudo npm install --save @angular/core
+ 1013  npm start
+ 1014  code .
+ 1015  ng build --prod
+ 1016  ng config -g cli.warnings.versionMismatch false
+ 1017  ng test
+ 1018  less README.md 
+ 1019  ng build --prod
+ 1020  ng test
+ 1021  whereis postgresql
+ 1022  cd /usr/lib/postgresql/
+ 1023  ls
+ 1024  cd 9.5/
+ 1025  ls
+ 1026  cd bin/
+ 1027  ls
+ 1028  cd ..
+ 1029  cd bin/
+ 1030  initdb
+ 1031  psql initdb
+ 1032  cd
+ 1033  cd /usr/local
+ 1034  ls
+ 1035  man
+ 1036  sudo service postgresql status 
+ 1037  sudo service postgresql start 
+ 1038  sudo service postgresql status 
+ 1039  sudo service postgresql stop 
+ 1040  pc -C postgresql-9.5.14/
+ 1041  ps -C postgres
+ 1042  ps -C postgresql-9.5.14/
+ 1043  sudo service postgresql start 
+ 1044  which postgresql
+ 1045  cd /var/lib/
+ 1046  ls
+ 1047  ps -C postgresql-9.5.14/
+ 1048  ps -C postgresql
+ 1049  cd
+ 1050  sudo -i -u postgres 
+ 1051  sudo -i -u adi 
+ 1052  ps -C postgres
+ 1053  sudo service postgresql stop 
+ 1054  ps -C postgres
+ 1055  sudo -i -u adi 
+ 1056  sudo -i -u supriya 
+ 1057  ./configure 
+ 1058  sudo apt-get install readline
+ 1059  sudo apt-get update
+ 1060  sudo apt-get install readline
+ 1061  cd
+ 1062  npm start
+ 1063  sudo rm -r node_modules/ package-lock.json 
+ 1064  sudo npm install
+ 1065  ls
+ 1066  sudo rm -r node_modules/ package-lock.json 
+ 1067  sudo npm install
+ 1068  ls
+ 1069  sudo rm -r node_modules/ package-lock.json 
+ 1070  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1071  npm start
+ 1072  npm i -g @angular-devkit/build-angular
+ 1073  sudo npm i -g @angular-devkit/build-angular
+ 1074  code .
+ 1075  git clone https://sam-ai@bitbucket.org/jena-ai/business-api.git
+ 1076  code .
+ 1077  npm start
+ 1078  l
+ 1079  sudo rm -r node_modules/ package-lock.json 
+ 1080  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1081  npm start
+ 1082  node app.js 
+ 1083  code .
+ 1084  postman 
+ 1085  sudo postman
+ 1086  code .
+ 1087  node app
+ 1088  postman 
+ 1089  sudo postman
+ 1090  history
+ 1091  code .
+ 1092  npm start
+ 1093  dpkg -l | grep postgres
+ 1094  psql
+ 1095  dpkg -l | grep postgres
+ 1096  sudo -i -u adi
+ 1097  code .
+ 1098  mkdir se2
+ 1099  cd se2/
+ 1100  npm start
+ 1101  sudo -u postgres psql
+ 1102  sudo -u adi psql
+ 1103  sudo -u postgres psql
+ 1104  code .
+ 1105  npm start
+ 1106  code .
+ 1107  npm start
+ 1108  git init
+ 1109  git status 
+ 1110  code .
+ 1111  node app
+ 1112  sudo postman
+ 1113  code .
+ 1114  cd ../
+ 1115  ls
+ 1116  cd ..
+ 1117  ls
+ 1118  cd altair/
+ 1119  ls
+ 1120  grep -Irn "defaultOpen" .
+ 1121  grep -Irn "openPage" .
+ 1122  cd ..
+ 1123  cd Fuse\ v7.0.1/
+ 1124  npm start
+ 1125  code .
+ 1126  history 
+ 1127  grep -Irn "EnjoyHint" .
+ 1128  cd ..
+ 1129  cd altair/
+ 1130  grep -Irn "EnjoyHint" .
+ 1131  code .
+ 1132  history 
+ 1133  grep -Irn "EnjoyHint" .
+ 1134  less /etc/network/interfaces
+ 1135  ifconfig 
+ 1136  ifconfig wlp6s0
+ 1137  npm start
+ 1138  cd /var/www/html/
+ 1139  sudo cp /home/supriya/Downloads/livehelperchat-master 
+ 1140  sudo cp /home/supriya/Downloads/livehelperchat-master livehelperchat
+ 1141  ls
+ 1142  cd ..
+ 1143  sudo cp /home/supriya/Downloads/livehelperchat-master html/
+ 1144  cd html/
+ 1145  ls
+ 1146  cd ..
+ 1147  cd html 
+ 1148  wget https://github.com/remdex/livehelperchat/archive/master.zip
+ 1149  less /etc/environment 
+ 1150  echo $http_proxy 
+ 1151  unset http_proxy 
+ 1152  http_proxy=""
+ 1153  echo $http_proxy 
+ 1154  unset https_proxy 
+ 1155  https_proxy=""
+ 1156  echo $https_proxy 
+ 1157  unset ftp_proxy 
+ 1158  ftp_proxy=""
+ 1159  echo $socks_proxy 
+ 1160  unset socks_proxy 
+ 1161  socks_proxy=""
+ 1162  echo $socks_proxy 
+ 1163  wget https://github.com/remdex/livehelperchat/archive/master.zip
+ 1164  unzip master.zip 
+ 1165  cd livehelperchat-master/lhc_web/
+ 1166  chmod a+w -R cache/
+ 1167  chmod a+w -R settings/
+ 1168  chmod a+w -R var/storage
+ 1169  chmod a+w -R var/userphoto/
+ 1170  chmod a+w -R var/storage
+ 1171  chmod a+w -R var/storageform/
+ 1172  chmod a+w -R var/storagedocshare/
+ 1173  chmod a+w -R var/storagetheme/
+ 1174  chmod a+w -R var/tmpfiles/
+ 1175  chmod a+w -R var/storageadmintheme/
+ 1176  mysql -u root -p
+ 1177  ls -a
+ 1178  ls -la
+ 1179  history 
+ 1180  echo $https_proxy c
+ 1181  echo $http_proxy 
+ 1182  cd ..
+ 1183  cd
+ 1184  cd /opt/lampp/htdocs/
+ 1185  wget https://github.com/remdex/livehelperchat/archive/master.zip
+ 1186  sudo wget https://github.com/remdex/livehelperchat/archive/master.zip
+ 1187  ls
+ 1188  ls -la
+ 1189  unzip master.zip 
+ 1190  sudo unzip master.zip 
+ 1191  ls
+ 1192  cd livehelperchat-master/lhc_web/
+ 1193  chmod a+w -R cache/
+ 1194  sudo chmod a+w -R cache/
+ 1195  sudo chmod a+w -R settings/
+ 1196  sudo chmod a+w -R var/storage
+ 1197  sudo chmod a+w -R var/userphoto/
+ 1198  sudo chmod a+w -R var/storage
+ 1199  sudo chmod a+w -R var/storageform/
+ 1200  sudo chmod a+w -R var/storagetheme/
+ 1201  sudo chmod a+w -R var/tmpfiles/
+ 1202  sudo chmod a+w -R var/storageadmintheme/
+ 1203  ls -la
+ 1204  sudo chmod a+w -R var/botphoto/
+ 1205  sudo chmod a+w -R var/bottrphoto/
+ 1206  sudo chmod a+w -R var/storageinvitation/
+ 1207  sudo chmod a+w -R var/storagedocshare/
+ 1208  sudo chmod a+w -R var/storagetheme/
+ 1209  ls
+ 1210  code .
+ 1211  cd ..
+ 1212  ls
+ 1213  cd livehelperchat-master/
+ 1214  ls
+ 1215  cd lhc_web/
+ 1216  ls
+ 1217  cd ..
+ 1218  ls
+ 1219  cd ..
+ 1220  ls
+ 1221  cd www/
+ 1222  ls
+ 1223  sudo gedit conn.php 
+ 1224  cd ..
+ 1225  ls
+ 1226  history 
+ 1227  grep -Irn "htdocs"
+ 1228  sudo grep -Irn "htdocs"
+ 1229  ls
+ 1230  cd www/
+ 1231  cd ..
+ 1232  sudo mkdir htdocs
+ 1233  cd htdocs/
+ 1234  cp /var/www/conn.php conn.php
+ 1235  sudo cp /var/www/conn.php conn.php
+ 1236  ls
+ 1237  less conn.php 
+ 1238  cd /opt/lampp/htdocs/
+ 1239  ls
+ 1240  sudo cp /var/www/html/livehelperchat-master/ livehelperchat-master
+ 1241  ls
+ 1242  ls
+ 1243  cd webalizer/
+ 1244  ls
+ 1245  cd ..
+ 1246  sudo cp /var/www/html/livehelperchat-master/ webalizer/
+ 1247  cd webalizer/
+ 1248  ls
+ 1249  cd ..
+ 1250  history 
+ 1251  wget https://github.com/remdex/livehelperchat/archive/master.zip
+ 1252  echo $http_proxy 
+ 1253  sudo npm install
+ 1254  npm start
+ 1255  sudo rm node_modules/
+ 1256  sudo rm -r node_modules/
+ 1257  code .
+ 1258  cd\
+ 1259  cd
+ 1260  cd /opt/lampp/htdocs/
+ 1261  cd livehelperchat-master/lhc_web/
+ 1262  ls
+ 1263  code .
+ 1264  history
+ 1265  Grep -Irn "mca2.pdf"
+ 1266  grep -Irn "mca2.pdf"
+ 1267  node app
+ 1268  cd /opt/lampp/
+ 1269  ls
+ 1270  cd htdocs/
+ 1271  cd livehelperchat-master/
+ 1272  ls
+ 1273  cd lhc_web/
+ 1274  ls
+ 1275  cd cache/
+ 1276  cd ..
+ 1277  code .
+ 1278  code .
+ 1279  postman 
+ 1280  sudo postman 
+ 1281  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -sOutputFile=output.pdf MCA.jpg 
+ 1282  git clone https://gitlab.com/payalbhosale/marketing-app.git
+ 1283  npm start
+ 1284  less /etc/apt/apt.conf
+ 1285  less /etc/network/interfaces
+ 1286  less /etc/hosts
+ 1287  less /etc/hostname 
+ 1288  ifconfig 
+ 1289  echo $ftp_proxy 
+ 1290  less /etc/network/interfaces
+ 1291  less /etc/resolv.conf 
+ 1292  sudo ifconfig 
+ 1293  rfkill list all
+ 1294  ng serve port 4201
+ 1295  ng serve --port 4201
+ 1296  node app
+ 1297  sudo postman 
+ 1298  code .
+ 1299  sudo npm install
+ 1300  npm start
+ 1301  sudo npm install
+ 1302  sudo rm package-lock.json 
+ 1303  npm install -g @angular/cli
+ 1304  sudo npm install -g @angular/cli
+ 1305  cd ..
+ 1306  ng new cars
+ 1307  sudo rm -r cars/
+ 1308  cd ..
+ 1309  ng new cars
+ 1310  sudo rm -r cars/
+ 1311  sudo ng new cars
+ 1312  sudo chmod 777 cars/*
+ 1313  sudo chmod 777 cars/
+ 1314  sudo chmod 777 cars/e2e/*
+ 1315  sudo chmod 777 cars/e2e/src/
+ 1316  sudo chmod 777 cars/e2e/src/*
+ 1317  sudo chmod 777 cars/node_modules/
+ 1318  sudo chmod 777 cars/node_modules/*
+ 1319  sudo chmod 777 cars/node_modules/**
+ 1320  history 
+ 1321  sudo chmod a+w -R cars/node_modules/
+ 1322  sudo chmod a+w -R cars/src/
+ 1323  ng serve --o
+ 1324  cd cars/
+ 1325  ng serve --o
+ 1326  sudo rm -r node_modules/
+ 1327  sudo rm package-lock.json 
+ 1328  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1329  ng serve --o
+ 1330  code .
+ 1331  cd src/app/
+ 1332  ng generate service user --flat --spec=false
+ 1333  rm user.service.ts 
+ 1334  cd login/
+ 1335  ng generate service user --flat --spec=false
+ 1336  cd ..
+ 1337  npm start
+ 1338  sudo postman 
+ 1339  cd ..
+ 1340  ls
+ 1341  cd rest-api-winston/
+ 1342  node app
+ 1343  npm start
+ 1344  node app
+ 1345  sudo postman 
+ 1346  ng serve --port 4201
+ 1347  code .
+ 1348  ng serve --port 4201
+ 1349  npm start
+ 1350  ng serve --port 4200
+ 1351  npm start
+ 1352  ng serve --port 4200
+ 1353  sudo rm -r node_modules/ package-lock.json 
+ 1354  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1355  ng serve --port 4200
+ 1356  sudo npm install --save-dev @angular-devkit/build-angular
+ 1357  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1358  history 
+ 1359  sudo chmod a+w node_modules/
+ 1360  ls
+ 1361  ng serve --port 4200
+ 1362  sudo npm install --save-dev Cannot
+ 1363  sudo npm install @angular/cli --save-dev
+ 1364  npm start
+ 1365  ng serve --port 4200
+ 1366  sudo npm remove -g angular-cli
+ 1367  sudo npm install --save-dev @angular/cli@latest
+ 1368  ng serve --port 4200
+ 1369  sudo npm update
+ 1370  sudo npm audit fix
+ 1371  cd ..
+ 1372  cd marketing-app-master/
+ 1373  ng serve --port 4200
+ 1374  history 
+ 1375  sudo chmod a+w node_modules/
+ 1376  ng serve --port 4200
+ 1377  ng serve --port 4201
+ 1378  sudo -i -u adi 
+ 1379  sudo rm -r node_modules/ package-lock.json 
+ 1380  history 
+ 1381  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1382  ng serve --o 4200
+ 1383  npm install --save-dev @angular-devkit/build-angular
+ 1384  sudo npm install --save-dev @angular-devkit/build-angular
+ 1385  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1386  ng serve --port 4200
+ 1387  sudo npm install --save-dev @angular-devkit/build-angular
+ 1388  sudo npm audit fix
+ 1389  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1390  node app
+ 1391  npm app
+ 1392  node app
+ 1393  code .
+ 1394  code .
+ 1395  ng serve --port 4200
+ 1396  code .
+ 1397  code .
+ 1398  ng serve --port 4200
+ 1399  cd src/app/main/ui/forms/
+ 1400  ng generate class data
+ 1401  code data.ts 
+ 1402  ng serve --port 4200
+ 1403  pm2 help
+ 1404  pm2 --help
+ 1405  node app
+ 1406  ls
+ 1407  cd ..
+ 1408  ls
+ 1409  cd ..
+ 1410  cd 
+ 1411  code .
+ 1412  node app
+ 1413  node app
+ 1414  node app
+ 1415  sudo npm install node-gyp -g
+ 1416  sudo npm install bcrypt -g
+ 1417  sudo rm -r node_modules/ package-lock.json 
+ 1418  npm install node-gyp -g
+ 1419  sudo npm install node-gyp -g
+ 1420  ls
+ 1421  npm install bcrypt -g
+ 1422  sudo npm install bcrypt -g
+ 1423  ls
+ 1424  sudo npm install bcrypt -save
+ 1425  sudo npm install bcryptjs -save
+ 1426  node app
+ 1427  npm install bcrypt@2.0.0 --save
+ 1428  sudo npm install bcrypt@2.0.0 --save
+ 1429  sudo npm install bcrypt
+ 1430  sudo npm install -g node-gyp
+ 1431  sudo apt-get update
+ 1432  ng serve --port 4200
+ 1433  sudo rm -r package-lock.json 
+ 1434  sudo npm i
+ 1435  sudo npm install --save bcryptjs && npm uninstall --save bcrypt
+ 1436  sudo npm install --save bcryptjs && sudo npm uninstall --save bcrypt
+ 1437  sudo npm i
+ 1438  ls
+ 1439  node index.js 
+ 1440  code .
+ 1441  cd ..
+ 1442  ls
+ 1443  ng serve --port 4200
+ 1444  sudo rm -r node_modules/ package-lock.json 
+ 1445  ls
+ 1446  history 
+ 1447  sudo chmod a+w -R src/
+ 1448  sudo chmod a+w -R e2e/
+ 1449  sudo chmod a+w -R docs/
+ 1450  sudo chmod a+w angular.json 
+ 1451  sudo chmod a+w ngsw-config.json 
+ 1452  sudo chmod a+w package.json 
+ 1453  sudo chmod a+w proxy.conf.js 
+ 1454  sudo chmod a+w README.md 
+ 1455  sudo chmod a+w tsconfig.json 
+ 1456  sudo chmod a+w tslint.json 
+ 1457  npm 
+ 1458  ng serve --port 4200
+ 1459  cd /opt/lampp/htdocs/
+ 1460  ls
+ 1461  cd webalizer/
+ 1462  ls
+ 1463  cd ..
+ 1464  ls
+ 1465  cd mysql/
+ 1466  ls
+ 1467  cd scripts/
+ 1468  ls
+ 1469  less ctl.sh 
+ 1470  cd ..
+ 1471  cd htdocs/
+ 1472  less index.php 
+ 1473  ls
+ 1474  cd webalizer/
+ 1475  ls
+ 1476  cd ..
+ 1477  cd 
+ 1478  cd /var/www/
+ 1479  ls
+ 1480  less conn.php 
+ 1481  cd html/
+ 1482  ls
+ 1483  cd /opt/lampp/
+ 1484  ls -la
+ 1485  sudo ps -A | grep mysql
+ 1486  sudo dpkg-reconfigure phpmyadmin
+ 1487  cd 
+ 1488  cd /etc/
+ 1489  cd
+ 1490  sudo apt-get update
+ 1491  sudo /opt/lampp/lampp stop
+ 1492  sudo rm -rf /opt/lampp
+ 1493  cd /opt/
+ 1494  ls
+ 1495  sudo apt-get update
+ 1496  sudo apt-get install phpmyadmin php-mbstring php-gettext
+ 1497  clear
+ 1498  cd ..
+ 1499  sudo apt-get install phpmyadmin php-mbstring php-gettext
+ 1500  sudo rm -r /var/lib/dpkg/lock-frontend 
+ 1501  sudo service mysql stop
+ 1502  sudo service mysql start
+ 1503  sudo /opt/lampp/lampp restart
+ 1504  sudo /etc/init.d/ stop
+ 1505  sudo service apache2 stop
+ 1506  sudo service mysql stop
+ 1507  sudo chmod 777 -R /var/www/
+ 1508  sudo /opt/lampp/var/
+ 1509  cd /opt/lampp/var/
+ 1510  ls -la
+ 1511  cfg['Servers'][$i]['AllowNoPassword'] = true;
+ 1512  grep -Irln "config.inc.php"
+ 1513  sudo npm install
+ 1514  npm start
+ 1515  npm run server
+ 1516  sudo npm install -g generator-ngx-rocket
+ 1517  sudo ngx new
+ 1518  ls
+ 1519  cd ..
+ 1520  sudo ngx new
+ 1521  sudo npm i
+ 1522  sudo rm -r node_modules/ package-lock.json 
+ 1523  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1524  npm start
+ 1525  ng serve --port 4200
+ 1526  code .
+ 1527  sudo npm install
+ 1528  npm start
+ 1529  sudo npm install
+ 1530  history 
+ 1531  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1532  npm start
+ 1533  cd ..
+ 1534  code .
+ 1535  npm start
+ 1536  cd Angular\ Application/
+ 1537  npm start
+ 1538  sudo npm update
+ 1539  npm start
+ 1540  cd ..
+ 1541  ls
+ 1542  cd Nodejs\ API/
+ 1543  ls
+ 1544  npm install
+ 1545  ls
+ 1546  sudo npm install
+ 1547  sudo rm -r node_modules/
+ 1548  sudo npm install
+ 1549  node server.js 
+ 1550  npm start
+ 1551  code .
+ 1552  sudo npm install
+ 1553  sudo rm -r node_modules/ 
+ 1554  history 
+ 1555  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1556  npm start
+ 1557  ng serve --port 4200
+ 1558  sudo npm install @angular-devkit/build-angular
+ 1559  ng serve --port 4200
+ 1560  sudo npm install @angular/compiler-cli
+ 1561  ng serve --port 4200
+ 1562  sudo npm install @angular/compiler
+ 1563  ng serve --port 4200
+ 1564  sudo npm update
+ 1565  sudo rm -r node_modules/ 
+ 1566  npm audit fix
+ 1567  sudo npm audit fix
+ 1568  sudo npm install angulartics2
+ 1569  npm start
+ 1570  ng --v
+ 1571  ng version
+ 1572  sudo npm install --save angular-6-social-login
+ 1573  npm start
+ 1574  code .
+ 1575  sudo npm install --save angular-google-signin
+ 1576  npm start
+ 1577  sudo npm install --save angular-6-social-login
+ 1578  npm start
+ 1579  code .
+ 1580  npm start
+ 1581  node app
+ 1582  code .
+ 1583  node app
+ 1584  openssl s_client -starttls smtp -crlf -connect smpt.gmail.com:465
+ 1585  openssl s_client -starttls smtp -crlf -connect smpt.gmail.com:587
+ 1586  node app
+ 1587  code .
+ 1588  node server.js 
+ 1589  npm start
+ 1590  code .
+ 1591  node app
+ 1592  node server.js 
+ 1593  code .
+ 1594  npm start
+ 1595  code .
+ 1596  npm start
+ 1597  sudo npm install @ng-bootstrap/ng-bootstrap
+ 1598  npm start
+ 1599  sudo npm install @types/socket.io-client
+ 1600  sudo npm audit fix
+ 1601  npm start
+ 1602  code .
+ 1603  npm start
+ 1604  node .
+ 1605  node server.js 
+ 1606  cd ..
+ 1607  code .
+ 1608  cd Angular\ Application/
+ 1609  ng serve --port 4201
+ 1610  code .
+ 1611  echo $http_proxy
+ 1612  ng serve
+ 1613  ng serve --port 4200
+ 1614  cd ..
+ 1615  cd wiston_project-master/
+ 1616  nodemon index.js 
+ 1617  ls
+ 1618  node index.js 
+ 1619  code .
+ 1620  g++ code.c 
+ 1621  code 
+ 1622  gedit code.cpp
+ 1623  gedit code.c
+ 1624  ls
+ 1625  cd /etc/opt/
+ 1626  ls
+ 1627  cd /opt/lampp/
+ 1628  ls
+ 1629  cd apache2/
+ 1630  ls
+ 1631  cd conf/
+ 1632  less httpd.conf 
+ 1633  ls
+ 1634  sudo gedit httpd.conf 
+ 1635  cd ..
+ 1636  cd conf/
+ 1637  ls
+ 1638  cd apache2/
+ 1639  ls
+ 1640  cd conf/
+ 1641  sudo gedit httpd.conf 
+ 1642  ngx new app2
+ 1643  sudo npm install
+ 1644  cd app2/
+ 1645  sudo npm install
+ 1646  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1647  sudo rm -r node_modules/ 
+ 1648  ngx new app2
+ 1649  ls
+ 1650  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1651  npm start
+ 1652  ng serve --port 4200
+ 1653  sudo sudo npm install node-sass puppeteer --unsafe-perm=true
+ 1654  ng serve --port 4200
+ 1655  npm audit fix
+ 1656  sudo npm install @angular-devkit/build-angular
+ 1657  ng serve --port 4200
+ 1658  sudo npm install @angular/compiler-cli
+ 1659  sudo npm install @angular/compiler-cli --save
+ 1660  sudo sudo npm install node-sass puppeteer --unsafe-perm=true @angular/compiler-cli
+ 1661  sudo sudo npm install node-sass puppeteer @angular/compiler-cli --unsafe-perm=true 
+ 1662  ls -al
+ 1663  sudo ./xampp-linux-x64-5.6.20-0-installer.run 
+ 1664  sudo /opt/lampp/lampp restart
+ 1665  lsof -Pi |grep 8080   
+ 1666  netstat -na |grep 8080     
+ 1667  ps -ef 
+ 1668  sudo lsof -i :80
+ 1669  sudo /etc/init.d/apache2 stop
+ 1670  sudo /etc/init.d/mysql st
+ 1671  sudo /etc/init.d/apache2 start
+ 1672  cd /var/www/html/livehelperchat-master/lhc_web/
+ 1673  sudo /etc/init.d/apache2 restart 
+ 1674  cd ..
+ 1675  ls
+ 1676  cd lhc_web/
+ 1677  code .
+ 1678  cd /opt/lampp/
+ 1679  ls
+ 1680  sudo /opt/lampp/lampp restart
+ 1681  sudo /opt/lampp/lampp stop
+ 1682  sudo /opt/lampp/lampp start
+ 1683  cd
+ 1684  sudo apt-get update 
+ 1685  sudo apt-get install php5-curl
+ 1686  sudo apt-get install curl
+ 1687  sudo service apache2 restart
+ 1688  sudo apt-get install php7.0-curl
+ 1689  /etc/init.d/apache2 restart
+ 1690  ng serve --open
+ 1691  ng serve --port 4201
+ 1692  ng serve --open
+ 1693  history
+ 1694  ps -ef 
+ 1695  man ./postgresql-9.5.14/
+ 1696  man postgresql-common 
+ 1697  less ./postgresql-9.5.14/
+ 1698  cd ./postgresql-9.5.14/
+ 1699  ls
+ 1700  cd src/
+ 1701  ls
+ 1702  cd
+ 1703  ./postgresql-9.5.14/
+ 1704  run ./postgresql-9.5.14/
+ 1705  cd /etc/postgresql-common/
+ 1706  ls
+ 1707  less user_clusters 
+ 1708  less createcluster.conf 
+ 1709  grep -Irn "tmp0"
+ 1710  ;
+ 1711  grep -Irn "tmp0";
+ 1712  grep -Irn "tmp0"
+ 1713  cd
+ 1714  grep -Irn "tmp0"
+ 1715  whereis postgresql
+ 1716  whereis postgresql-9.5
+ 1717  cd /usr/lib/postgresql/
+ 1718  ls
+ 1719  cd 9.5/
+ 1720  cd
+ 1721  sudo -i -u adi
+ 1722  cd
+ 1723  whereis postgresql
+ 1724  cd /etc/postgresql
+ 1725  ls
+ 1726  cd 9.5
+ 1727  ls
+ 1728  cd main/
+ 1729  ls
+ 1730  code .
+ 1731  cd ..
+ 1732  ls
+ 1733  cd ..
+ 1734  where is postgresql
+ 1735  whereis postgresql
+ 1736  cd /etc/postgresql
+ 1737  ls
+ 1738  cd 9.5/
+ 1739  ls
+ 1740  cd main/
+ 1741  ls
+ 1742  less pg_hba.conf 
+ 1743  sudo gedit pg_hba.conf 
+ 1744  less pg_ident.conf 
+ 1745  sudo gedit pg_ident.conf 
+ 1746  sudo gedit start.conf 
+ 1747  sudo gedit postgresql.conf 
+ 1748  ls
+ 1749  less environment 
+ 1750  cd
+ 1751  cd /usr/local
+ 1752  cd pgsql
+ 1753  ls
+ 1754  cd /etc/
+ 1755  la
+ 1756  code .
+ 1757  cd
+ 1758  cd
+ 1759  whereis postgresql
+ 1760  cd /usr/share/postgresql
+ 1761  ls
+ 1762  cd 9.5/
+ 1763  ls
+ 1764  code .
+ 1765  man
+ 1766  cd contrib/
+ 1767  ls
+ 1768  cd ..
+ 1769  less system_views.sql 
+ 1770  less pg_hba.conf.sample 
+ 1771  sudo -i -u adi
+ 1772  whereis postgrsql
+ 1773  whereis postgresql
+ 1774  cd /usr/lib/postgresql/
+ 1775  ls
+ 1776  grep -Irn "trust"
+ 1777  grep -D -Irn "trust"
+ 1778  grep -Irn "trust"
+ 1779  grep -Irn "pg_hba";
+ 1780  grep -Irn "pg_hba"
+ 1781  ls
+ 1782  cd 9.5/
+ 1783  ls
+ 1784  cd bin/
+ 1785  ls
+ 1786  code .
+ 1787  cd ..
+ 1788  cd lib/
+ 1789  ls
+ 1790  cd ..
+ 1791  ls
+ 1792  cd 9.5/
+ 1793  ls
+ 1794  cd bin/
+ 1795  ls
+ 1796  history 
+ 1797  history 
+ 1798  cd Documents/documents/
+ 1799  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=setting -sOutputFile=output.pdf Adhar\ Card.pdf 
+ 1800  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=prepress -sOutputFile=output.pdf Adhar\ Card.pdf 
+ 1801  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/prepress -sOutputFile=output.pdf Adhar\ Card.pdf 
+ 1802  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/prepress -sOutputFile=output1.pdf output.pdf 
+ 1803  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/prepress -sOutputFile=SSC Result3.pdf output.pdf 
+ 1804  history 
+ 1805  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=setting -sOutputFile=output.pdf SSCResult3.pdf 
+ 1806  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=output.pdf SSCResult3.pdf 
+ 1807  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -sOutputFile=output.pdf SSCResult3.pdf 
+ 1808  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/printer -sOutputFile=output.pdf SSCResult3.pdf 
+ 1809  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=output1.pdf output.pdf 
+ 1810  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=output.pdf output1.pdf 
+ 1811  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=output.pdf SSCResult.pdf 
+ 1812  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/printer -sOutputFile=output.pdf SSCResult.pdf 
+ 1813  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/prepress -sOutputFile=output.pdf SSCResult.pdf 
+ 1814  gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=output.pdf SSCResult.pdf 
+ 1815  ng serve --port 4200
+ 1816  sudo service network-manager restart 
+ 1817  sudo service networking restart 
+ 1818  sudo service network-manager restart 
+ 1819  code .
+ 1820  pm2 start index.js 
+ 1821  cd ..
+ 1822  ls
+ 1823  cd rest-api-winston/
+ 1824  pm2 start app.js 
+ 1825  pm2 stop index.js 
+ 1826  pm2 stop app.js 
+ 1827  cd ..
+ 1828  cd wiston_project-master/
+ 1829  pm2 stop index.js 
+ 1830  pm2 start index.js 
+ 1831  cd ..
+ 1832  cd rest-api-winston/
+ 1833  pm2 start app.js 
+ 1834  cd ..
+ 1835  cd wiston_project-master/
+ 1836  pm2 stop index.js 
+ 1837  node index.js 
+ 1838  cd ..
+ 1839  cd rest-api-winston/
+ 1840  pm2 stop app.js 
+ 1841  node app.js 
+ 1842  cd ..
+ 1843  cd wiston_project-master/
+ 1844  node index.js 
+ 1845  cd ..
+ 1846  cd rest-api-winston/
+ 1847  pm2 start app.js 
+ 1848  cd ..
+ 1849  cd wiston_project-master/
+ 1850  node index.js 
+ 1851  cd ..
+ 1852  cd rest-api-winston/
+ 1853  pm2 stop app.js 
+ 1854  npm start
+ 1855  sudo -i -u adi
+ 1856  sudo -i -u adi 
+ 1857  sudo -i -u adi 
+ 1858  sudo -i -u postgres 
+ 1859  sudo -i -u adi
+ 1860  sudo -i -u adi 
+ 1861  sudo adi -U user2
+ 1862  history 
+ 1863  cd
+ 1864  sudo -i -u adi 
+ 1865  sudo service postgresql restart 
+ 1866  history 
+ 1867  sudo gedit pg_hba.conf 
+ 1868  sudo service postgresql restart 
+ 1869  sudo gedit pg_hba.conf 
+ 1870  sudo service postgresql restart 
+ 1871  sudo -i -u postgres 
+ 1872  sudo gedit pg_hba.conf 
+ 1873  sudo service postgresql restart 
+ 1874  ls
+ 1875  sudo gedit postgresql.conf 
+ 1876  sudo service postgresql restart 
+ 1877  sudo gedit postgresql.conf 
+ 1878  sudo service postgresql restart 
+ 1879  cd /etc/postgresql
+ 1880  ls
+ 1881  cd 9.5/main/
+ 1882  ls
+ 1883  sudo gedit pg
+ 1884  sudo gedit pg_hba.conf 
+ 1885  history 
+ 1886  whereis postgresql
+ 1887  cd /usr/lib/postgresql/
+ 1888  ls
+ 1889  cd 9.5/
+ 1890  ls
+ 1891  cd lib/
+ 1892  ls
+ 1893  cd 
+ 1894  sudo -i -u di
+ 1895  sudo -i -u adi
+ 1896  pg_ctl start
+ 1897  sudo -i -u postgres 
+ 1898  sudo /etc/postgresql/
+ 1899  cd /etc/postgresql
+ 1900  ls
+ 1901  cd 9.5/main/
+ 1902  ls
+ 1903  sudo gedit pg_hba.conf 
+ 1904  sudo service postgresql restart
+ 1905  gedit priyanka.txt
+ 1906  history
+ 1907  sudo -i -u adi
+ 1908  sudo cd /etc/environment/
+ 1909  cd /etc/environment/
+ 1910  whereis postgersql
+ 1911  whereis posgresql
+ 1912  whereis postgresql
+ 1913  sudo cd /etc/postgresql/
+ 1914  cd /etc/postgresql
+ 1915  ls
+ 1916  cd 9.5/main/
+ 1917  ls
+ 1918  sudo gedit pg_hba.conf 
+ 1919  cd
+ 1920  sudo service postgresql restart 
+ 1921  cd /etc/postgresql/9.5/main 
+ 1922  sudo  gedit pg_hba.conf 
+ 1923  vim /etc/apache2/sites-available/000-default.conf 
+ 1924  vim.tiny /etc/apache2/sites-available/000-default.conf 
+ 1925  service apache2 restart 
+ 1926  vim.tiny /etc/apache2/sites-available/000-default.conf 
+ 1927  vim.tiny /etc/apache2/sites-enabled/000-default.conf 
+ 1928  apt-get install nginx
+ 1929  apt-get install nginx --fix-missing
+ 1930  export 
+ 1931  unset ftp_proxy http_proxy https_proxy socks_proxy 
+ 1932  export 
+ 1933  apt-get install nginx --fix-missing
+ 1934  service apache2 stop
+ 1935  vim /etc/apache2/sites-available/000-default.conf 
+ 1936  vim.tiny /etc/apache2/sites-available/000-default.conf 
+ 1937  apt-get install nginx --fix-missing
+ 1938  vim /etc/nginx/sites-available/default 
+ 1939  apt-get install vim -y --fix-missing
+ 1940  vim /etc/nginx/sites-available/default 
+ 1941  service nginx restart 
+ 1942  cd
+ 1943  ng serve --port 4200
+ 1944  node index.js 
+ 1945  ngrok http -bind-tls=true site.dev:80
+ 1946  ngrok http -bind-tls=true site.dev:443
+ 1947  ngrok 80
+ 1948  ngrok http 80
+ 1949  ngrok
+ 1950  sudo -s
+ 1951  cd 
+ 1952  cd Public/
+ 1953  vim index.html 
+ 1954  sudo -s
+ 1955  cd 
+ 1956  cd Downloads/
+ 1957  unzip ngrok-stable-linux-amd64.zip 
+ 1958  ls
+ 1959  ls -ltrh
+ 1960  ./ngrok authtoken 6X3ZFxFyYrtu9VnfzCuLR_41aQQS8sPQ9p8UdQRxMzM
+ 1961  ./ngrok help
+ 1962  ./ngrok http 80
+ 1963  ./ngrok https 80
+ 1964  ./ngrok tls 80
+ 1965  sudo vim /etc/hosts
+ 1966  ngrok http -bind-tls=true localhost:80
+ 1967  sudo apt install ngrok-client
+ 1968  ngrok http -bind-tls=true localhost:80
+ 1969  ngrok http -bind-tls=true test.pucsd.com:80
+ 1970  ngrok http -bind-tls=true 80
+ 1971  ngrok http  80
+ 1972  ngrok http 80
+ 1973  ngrok
+ 1974  ngrok http -bind-tls=true 80
+ 1975  ngrok http -bind-tls=false site.dev:80
+ 1976  ngrok http -region=us -hostname=test.pucsd.com 80
+ 1977  ngrok http  -hostname=test.pucsd.com 80
+ 1978  ngrok 80
+ 1979  ./ngrok http 80
+ 1980  ./ngrok http -bind-tls=true test.pucsd.com:80
+ 1981  ./ngrok  -bind-tls=true test.pucsd.com:80
+ 1982  ./ngrok tls -hostname=foo.com 443
+ 1983  ngrok tls -hostname=foo.com 443
+ 1984  ngrok tls -hostname=foo.com 
+ 1985  ngrok tls 
+ 1986  ngrok tls -hostname=localhost
+ 1987  ngrok tls --hostname=localhost
+ 1988  ngrok 
+ 1989  ngrok http
+ 1990  ngrok http 4200
+ 1991  ./ngrok http 4200
+ 1992  ./ngrok tsl 4200
+ 1993  ./ngrok tls 4200
+ 1994  cd
+ 1995  ngrok 
+ 1996  ngrok http 80
+ 1997  history 
+ 1998  history >apache2_abhi.txt

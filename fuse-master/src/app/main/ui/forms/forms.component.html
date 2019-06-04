@@ -1,0 +1,145 @@
+<ng-container><div id="forms" class="page-layout simple fullwidth" fxLayout="column">
+  <div id="cards" class="page-layout simple fullwidth">
+
+  <!-- HEADER -->
+
+  
+  <!-- / HEADER -->
+
+  <div class="vertical-stepper-wrapper">
+    <!-- VERTICAL STEPPER EXAMPLE -->
+    <mat-vertical-stepper>
+      <mat-step>
+        <form fxLayout="column" [formGroup]="verticalStepperStep1">
+          <ng-template matStepLabel>Who are you ?</ng-template>
+          <div fxFlex="1 0 auto" fxLayout="column">
+
+            <mat-select placeholder="Select an option" formControlName="firstName">
+            
+              <mat-option 
+                (onSelectionChange)="setFoodFlag(food.viewValue)"
+                *ngFor="let food of foods"
+                [value]="food.viewValue">
+                {{ food.viewValue }}
+
+              </mat-option>
+
+            </mat-select>
+
+    
+            <mat-error> </mat-error>
+          </div>
+          <div *ngIf="foodFlag == 'Freelance Marketer'">
+            <p>You do have a firm?</p>
+            <mat-button-toggle-group name="fontStyle" aria-label="Font Style">
+              <mat-button-toggle value="bold">Yes</mat-button-toggle>
+              <mat-button-toggle value="italic">No</mat-button-toggle>
+            </mat-button-toggle-group>
+          </div>
+          <div *ngIf="foodFlag == 'In House Marketer'">
+              <p>What is the name of your Company?</p>
+              <textarea matInput placeholder="Enter your business name" formControlName="b1"></textarea>
+
+          </div>
+          <div *ngIf="foodFlag == 'Business Owner/Company Executive'">
+              <p>What is the name of your Business?</p>
+              <textarea matInput placeholder="Enter your business name" formControlName="b2"></textarea>
+
+          </div>
+          <div *ngIf="foodFlag == 'Marketing Agency'">
+            <p>What is the name of your Agency?</p>
+            <textarea matInput placeholder="Enter your business name" formControlName="b3"></textarea>
+
+        </div>
+        <div *ngIf="foodFlag == 'Other'">
+            <p>What is your role?</p>
+            <textarea matInput placeholder="Enter your Role" formControlName="b4"></textarea>
+
+            <p>What is the name of your Agency?</p>
+            <textarea matInput placeholder="Enter your business name" formControlName="b5"></textarea>
+
+        </div>
+          <div fxLayout="row" fxLayoutAlign="center center">
+            <button
+              mat-raised-button
+              matStepperNext
+              type="button"
+              color="accent"
+            >
+              Next
+            </button>
+          </div>
+        </form>
+      </mat-step>
+      <mat-step>
+        <form fxLayout="column" [formGroup]="verticalStepperStep2">
+          <ng-template matStepLabel>What Features are you interested in?</ng-template>
+    
+          <div fxFlex="1 0 auto" fxLayout="column">
+              <mat-select placeholder="Select an option" formControlName="feature">
+                  <mat-option *ngFor="let wood of feeds" [value]="wood.viewValue">
+                      {{wood.viewValue}}
+                    </mat-option>
+              
+                </mat-select>
+
+
+          </div>
+    
+          <div fxLayout="row" fxLayoutAlign="center center">
+            <button
+              class="mr-8"
+              mat-raised-button
+              matStepperPrevious
+              type="button"
+              color="accent"
+            >
+              Previous
+            </button>
+            <button
+              mat-raised-button
+              matStepperNext
+              type="button"
+              color="accent"
+            >
+              Next
+            </button>
+          </div>
+        </form>
+      </mat-step>
+      
+      <mat-step>
+        <ng-template matStepLabel>Done</ng-template>
+    
+            <div class="h2 m-16" fxLayout="row" fxLayoutAlign="center center">
+              Thank your for filling out our form.
+            </div>
+    
+            <div fxLayout="row" fxLayoutAlign="center center">
+              <button
+                class="mr-8"
+                mat-raised-button
+                matStepperPrevious
+                type="button"
+                color="accent"
+              >
+                Previous
+              </button>
+              <button
+                mat-raised-button
+                type="button"
+                color="accent"
+                (click)="testRequest()"
+              >
+                Finish
+              </button>
+            </div>
+      </mat-step>>
+    
+    </mat-vertical-stepper>
+    <!-- / CONTENT -->    
+    <!-- / VERTICAL STEPPER EXAMPLE -->
+  </div>
+  </div>
+</div>
+</ng-container>
